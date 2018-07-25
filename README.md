@@ -1,5 +1,5 @@
-bloom filters
--------------
+bloom filter
+------------
 
 For BitSet implementation, you have to think about memory. Is a boolean in Java
 really represented with 1 bit? Moreover, what about the manipulation of bits in
